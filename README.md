@@ -7,12 +7,12 @@
 | 2 | Port all the Rx .NET tests to RxJava, implementing missing functionality along the way. Grade based on % of tests ported. | 2 | |
 | 3 | Create 10 games in RxJS + HTML5 (like http://lessmilk.com/). You get 1 point per game. | 2 | Jeffrey de Lange, Herman Banken |
 | 4 | Use the vibrate function of your phone to make it turn 360 degrees and take a panoramic image. | 2 | |
-| 5 | Implement a reactive "Big Data" library for hacking the network based on http://shop.oreilly.com/product/9781597499576.do. | 4 | Claire Keum, Jerun Trajko, Mayank Jain |
+| 5 | Implement a reactive "Big Data" library for hacking the network based on http://shop.oreilly.com/product/9781597499576.do. | 4 | |
 | 6 | Implement "LINQ to Charts" on top of JavaFx and use it to visualize real-time streaming data. | 2 | Rik Nijessen, Olaf Maas |
 | 7 | Implement "LINQ to Charts" on top of https://developers.google.com/chart/ and use it to visualize real-time streaming data. | 2 | Willem Vaandrager, Wouter Groen |
 | 8 | Create Rx bindings for Google maps and use it to plot real-time data such as earthquakes, ship/airplanes, tides, wind (http://hint.fm/wind/), ... | 2 | Joris van den Oever, Ping Wan  |
 | 9 | Implement http://www.visualsedimentation.org/ from scratch. | 2 | Joop Aué, Martin Rogalla |
-| 10 | Implement your own version of the reactive database Firebase using http://symas.com/mdb/ | 2 | |
+| 10 | Implement your own version of the reactive database Firebase using http://symas.com/mdb/ | 2 | Claire Keum, Jerun Trajko, Mayank Jain |
 | 11 | Implement a marble-diagram GUI, integrated in IntelliJ, for the Rx testscheduler. | 4 | |
 | 12 | Create Rx bindings for Amazon Kinesis. | 2 | Alex Garella |
 | 13 | Create Rx bindings for a JavaScript UI framework like React, Angular, Can.js, ... | 2 | Christof Rabensteiner, Kors van Loon |
