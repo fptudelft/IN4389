@@ -20,4 +20,4 @@
 | 15 | Update introtorx.com to the latest version of Rx.NEt and port to RxJava and RxJs. | 1 | |
 | 16 | Write a > 100 page tutorial about Rx on Android (http://mttkay.github.io/blog/2013/08/25/functional-reactive-programming-on-android-with-rxjava/). | 2 | |
 | 17 | Create Rx bindings for Spark Streaming http://ampcamp.berkeley.edu/3/exercises/realtime-processing-with-spark-streaming.html. | 4 | |
-| 18 | Create a RxJS testing framework based on WebDriver (http://docs.seleniumhq.org/projects/webdriver/) and Protractor (http://angular.github.io/protractor). | 2 | Tiddo Langerak |
+| 18 | Create a RxJS testing framework based on WebDriver (http://docs.seleniumhq.org/projects/webdriver/) and Protractor (http://angular.github.io/protractor). | 2 | Tiddo Langerak, Jasper Abbink |
